@@ -1,13 +1,16 @@
 .choresText {
-   color: rgb(109, 32, 224);
+   color: rgb(218, 11, 25);
    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
    font-size: 2em;
    text-decoration: underline;
    font-style: italic;
+   text-align: left;
 }
 
 .choresHeading {
    color: black;
+   text-align: left;
+   font-size: 2em;
 }
 
 /* Use a different font, with a size large enough to easily read.
